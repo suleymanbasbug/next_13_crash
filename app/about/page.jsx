@@ -1,3 +1,6 @@
+export const metadata = {
+  title: "This title comes from metadata",
+};
 function AboutPage() {
   return (
     <div>
